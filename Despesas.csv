@@ -1,0 +1,494 @@
+"mes_referencia","despesa","valor"
+2012-01-01,"CEB",38.36
+2012-01-01,"CAESB",272
+2012-01-01,"Diarista",70
+2012-01-01,"Materiais de limpeza",15
+2012-01-01,"Reserva de caixa",310.36
+2012-02-01,"CEB",37.75
+2012-02-01,"CAESB",272
+2012-02-01,"Diarista",70
+2012-02-01,"Materiais de limpeza",15
+2012-02-01,"Reserva de caixa",309.75
+2012-02-01,"Compra de materiais",729.98
+2012-03-01,"CEB",37.13
+2012-03-01,"CAESB",272
+2012-03-01,"Diarista",70
+2012-03-01,"Materiais de limpeza",15
+2012-03-01,"Reserva de caixa",309.13
+2012-03-01,"Compra de materiais",85
+2012-03-01,"Manutenção corretiva",200
+2012-04-01,"CEB",37.03
+2012-04-01,"CAESB",278.2
+2012-04-01,"Diarista",70
+2012-04-01,"Materiais de limpeza",15
+2012-04-01,"Reserva de caixa",315.23
+2012-04-01,"Manutenção preventiva",150
+2012-05-01,"CEB",37.07
+2012-05-01,"CAESB",301.28
+2012-05-01,"Diarista",70
+2012-05-01,"Materiais de limpeza",15
+2012-05-01,"Reserva de caixa",338.35
+2012-05-01,"Compra de materiais",70
+2012-05-01,"Compra de materiais",70
+2012-06-01,"CEB",37.03
+2012-06-01,"CAESB",302.4
+2012-06-01,"Diarista",70
+2012-06-01,"Materiais de limpeza",15
+2012-06-01,"Reserva de caixa",339.43
+2012-06-01,"Compra de materiais",70
+2012-07-01,"CEB",37.35
+2012-07-01,"CAESB",302.4
+2012-07-01,"Diarista",70
+2012-07-01,"Materiais de limpeza",15
+2012-07-01,"Reserva de caixa",339.75
+2012-07-01,"Compra de materiais",70
+2012-08-01,"CEB",36.95
+2012-08-01,"CAESB",265.77
+2012-08-01,"Diarista",70
+2012-08-01,"Materiais de limpeza",15
+2012-08-01,"Reserva de caixa",302.72
+2012-08-01,"Compra de materiais",70
+2012-08-01,"Manutenção corretiva",500
+2012-09-01,"CEB",37
+2012-09-01,"CAESB",307.71
+2012-09-01,"Diarista",70
+2012-09-01,"Materiais de limpeza",15
+2012-09-01,"Reserva de caixa",344.71
+2012-09-01,"Compra de materiais",70
+2012-10-01,"CEB",37.75
+2012-10-01,"CAESB",297.09
+2012-10-01,"Diarista",70
+2012-10-01,"Materiais de limpeza",15
+2012-10-01,"Reserva de caixa",334.84
+2012-10-01,"Manutenção corretiva",70
+2012-10-01,"Compra de materiais",1200
+2012-10-01,"Compra de materiais",975
+2012-11-01,"CEB",38.12
+2012-11-01,"CAESB",308.34
+2012-11-01,"Diarista",70
+2012-11-01,"Materiais de limpeza",15
+2012-11-01,"Reserva de caixa",346.46
+2012-11-01,"Compra de materiais",85
+2012-11-01,"Compra de materiais",70
+2012-12-01,"CEB",39.14
+2012-12-01,"CAESB",302.4
+2012-12-01,"Diarista",70
+2012-12-01,"Materiais de limpeza",20
+2012-12-01,"Reserva de caixa",341.54
+2012-12-01,"Compra de materiais",70
+2012-12-01,"Compra de materiais",109.17
+2013-01-01,"CEB",38.14
+2013-01-01,"CAESB",302.4
+2013-01-01,"Diarista",70
+2013-01-01,"Materiais de limpeza",20
+2013-01-01,"Reserva de caixa",340.54
+2013-02-01,"CEB",38.13
+2013-02-01,"CAESB",302.4
+2013-02-01,"Diarista",70
+2013-02-01,"Materiais de limpeza",20
+2013-02-01,"Reserva de caixa",340.53
+2013-03-01,"CEB",30.17
+2013-03-01,"CAESB",302.4
+2013-03-01,"Diarista",70
+2013-03-01,"Materiais de limpeza",20
+2013-03-01,"Reserva de caixa",332.57
+2013-04-01,"CEB",31.08
+2013-04-01,"CAESB",318.4
+2013-04-01,"Diarista",70
+2013-04-01,"Materiais de limpeza",30
+2013-04-01,"Reserva de caixa",349.48
+2013-05-01,"CEB",28.6
+2013-05-01,"CAESB",331.2
+2013-05-01,"Diarista",70
+2013-05-01,"Materiais de limpeza",30
+2013-05-01,"Reserva de caixa",215.88
+2013-06-01,"CEB",31.44
+2013-06-01,"CAESB",334.38
+2013-06-01,"Diarista",70
+2013-06-01,"Materiais de limpeza",30
+2013-06-01,"Reserva de caixa",219.492
+2013-07-01,"CEB",28.82
+2013-07-01,"CAESB",331.2
+2013-07-01,"Diarista",70
+2013-07-01,"Materiais de limpeza",30
+2013-07-01,"Reserva de caixa",216.01
+2013-08-01,"CEB",31.49
+2013-08-01,"CAESB",311.16
+2013-08-01,"Diarista",70
+2013-08-01,"Materiais de limpeza",30
+2013-08-01,"Reserva de caixa",205.59
+2013-09-01,"CEB",31.15
+2013-09-01,"CAESB",331.2
+2013-09-01,"Diarista",70
+2013-09-01,"Materiais de limpeza",30
+2013-09-01,"Reserva de caixa",217.41
+2013-10-01,"CEB",32.89
+2013-10-01,"CAESB",331.2
+2013-10-01,"Diarista",70
+2013-10-01,"Materiais de limpeza",30
+2013-10-01,"Reserva de caixa",218.45
+2013-11-01,"CEB",32.81
+2013-11-01,"CAESB",331.2
+2013-11-01,"Diarista",70
+2013-11-01,"Materiais de limpeza",30
+2013-11-01,"Reserva de caixa",218.41
+2013-11-01,"Manutenção corretiva",450
+2013-12-01,"CEB",35.12
+2013-12-01,"CAESB",331.2
+2013-12-01,"Diarista",70
+2013-12-01,"Materiais de limpeza",30
+2013-12-01,"Reserva de caixa",219.79
+2014-01-01,"CEB",34.29
+2014-01-01,"CAESB",334.51
+2014-01-01,"Diarista",70
+2014-01-01,"Materiais de limpeza",30
+2014-01-01,"Reserva de caixa",221.28
+2014-01-01,"Manutenção corretiva",30
+2014-02-01,"CEB",32.7
+2014-02-01,"CAESB",331.2
+2014-02-01,"Diarista",70
+2014-02-01,"Materiais de limpeza",30
+2014-02-01,"Reserva de caixa",218.34
+2014-02-01,"Compra de materiais",3149
+2014-03-01,"CEB",29.64
+2014-03-01,"CAESB",327.89
+2014-03-01,"Diarista",70
+2014-03-01,"Materiais de limpeza",30
+2014-03-01,"Reserva de caixa",214.52
+2014-04-01,"CEB",31.79
+2014-04-01,"CAESB",344
+2014-04-01,"Diarista",70
+2014-04-01,"Materiais de limpeza",30
+2014-04-01,"Reserva de caixa",225.47
+2014-05-01,"CEB",31.96
+2014-05-01,"CAESB",355.2
+2014-05-01,"Diarista",70
+2014-05-01,"Materiais de limpeza",30
+2014-05-01,"Reserva de caixa",232.3
+2014-06-01,"CEB",32
+2014-06-01,"CAESB",355.2
+2014-06-01,"Diarista",70
+2014-06-01,"Materiais de limpeza",30
+2014-06-01,"Reserva de caixa",232.32
+2014-07-01,"CEB",31.52
+2014-07-01,"CAESB",355.2
+2014-07-01,"Diarista",70
+2014-07-01,"Materiais de limpeza",30
+2014-07-01,"Reserva de caixa",232.03
+2014-08-01,"CEB",32.86
+2014-08-01,"CAESB",355.2
+2014-08-01,"Diarista",70
+2014-08-01,"Materiais de limpeza",30
+2014-08-01,"Reserva de caixa",232.84
+2014-09-01,"CEB",32.64
+2014-09-01,"CAESB",355.2
+2014-09-01,"Diarista",80
+2014-09-01,"Materiais de limpeza",45
+2014-09-01,"Reserva de caixa",232.7
+2014-10-01,"CEB",37.09
+2014-10-01,"CAESB",314.2
+2014-10-01,"Diarista",80
+2014-10-01,"Materiais de limpeza",45
+2014-10-01,"Reserva de caixa",210.77
+2014-11-01,"CEB",37.54
+2014-11-01,"CAESB",355.2
+2014-11-01,"Diarista",80
+2014-11-01,"Materiais de limpeza",45
+2014-11-01,"Reserva de caixa",235.64
+2014-11-01,"Manutenção corretiva",289.85
+2014-12-01,"CEB",38.55
+2014-12-01,"CAESB",355.2
+2014-12-01,"Diarista",80
+2014-12-01,"Materiais de limpeza",45
+2014-12-01,"Reserva de caixa",236.25
+2015-01-01,"CEB",39.07
+2015-01-01,"CAESB",365.85
+2015-01-01,"Diarista",80
+2015-01-01,"Materiais de limpeza",45
+2015-01-01,"Reserva de caixa",242.95
+2015-02-01,"CEB",38.01
+2015-02-01,"CAESB",355.2
+2015-02-01,"Diarista",80
+2015-02-01,"Materiais de limpeza",50
+2015-02-01,"Reserva de caixa",235.93
+2015-03-01,"CEB",45.19
+2015-03-01,"CAESB",355.2
+2015-03-01,"Diarista",80
+2015-03-01,"Materiais de limpeza",50
+2015-03-01,"Reserva de caixa",240.23
+2015-04-01,"CEB",51.81
+2015-04-01,"CAESB",381.16
+2015-04-01,"Diarista",80
+2015-04-01,"Materiais de limpeza",50
+2015-04-01,"Reserva de caixa",259.78
+2015-05-01,"CEB",54.86
+2015-05-01,"CAESB",412.8
+2015-05-01,"Diarista",80
+2015-05-01,"Materiais de limpeza",50
+2015-05-01,"Reserva de caixa",280.6
+2015-05-01,"Manutenção preventiva",756
+2015-06-01,"CEB",56.45
+2015-06-01,"CAESB",412.8
+2015-06-01,"Diarista",80
+2015-06-01,"Materiais de limpeza",50
+2015-06-01,"Reserva de caixa",281.55
+2015-06-01,"Manutenção preventiva",800
+2015-07-01,"CEB",55.89
+2015-07-01,"CAESB",421.05
+2015-07-01,"Diarista",80
+2015-07-01,"Materiais de limpeza",50
+2015-07-01,"Reserva de caixa",286.16
+2015-07-01,"Compra de materiais",1070
+2015-08-01,"CEB",56.93
+2015-08-01,"CAESB",412.8
+2015-08-01,"Diarista",80
+2015-08-01,"Materiais de limpeza",50
+2015-08-01,"Reserva de caixa",281.84
+2015-09-01,"CEB",55.57
+2015-09-01,"CAESB",412.8
+2015-09-01,"Diarista",100
+2015-09-01,"Materiais de limpeza",50
+2015-09-01,"Reserva de caixa",281.02
+2015-10-01,"CEB",61.68
+2015-10-01,"CAESB",412.8
+2015-10-01,"Diarista",100
+2015-10-01,"Materiais de limpeza",50
+2015-10-01,"Reserva de caixa",284.69
+2015-11-01,"CEB",60.48
+2015-11-01,"CAESB",412.8
+2015-11-01,"Diarista",100
+2015-11-01,"Materiais de limpeza",50
+2015-11-01,"Reserva de caixa",283.97
+2015-12-01,"CEB",62.54
+2015-12-01,"CAESB",412.8
+2015-12-01,"Diarista",100
+2015-12-01,"Materiais de limpeza",50
+2015-12-01,"Reserva de caixa",285.2
+2016-01-01,"CEB",72.54
+2016-01-01,"CAESB",412.8
+2016-01-01,"Diarista",100
+2016-01-01,"Materiais de limpeza",50
+2016-01-01,"Reserva de caixa",291.2
+2016-01-01,"Manutenção corretiva",1800
+2016-02-01,"CEB",64.56
+2016-02-01,"CAESB",419.2
+2016-02-01,"Diarista",100
+2016-02-01,"Materiais de limpeza",65
+2016-02-01,"Reserva de caixa",290.26
+2016-03-01,"CEB",55.91
+2016-03-01,"CAESB",424
+2016-03-01,"Diarista",100
+2016-03-01,"Materiais de limpeza",65
+2016-03-01,"Reserva de caixa",287.95
+2016-04-01,"CEB",60.7
+2016-04-01,"CAESB",417.64
+2016-04-01,"Diarista",100
+2016-04-01,"Materiais de limpeza",65
+2016-04-01,"Reserva de caixa",287
+2016-04-01,"Compra de materiais",31.6
+2016-05-01,"CEB",59.07
+2016-05-01,"CAESB",424
+2016-05-01,"Diarista",100
+2016-05-01,"Materiais de limpeza",65
+2016-05-01,"Reserva de caixa",289.84
+2016-05-01,"Manutenção corretiva",280
+2016-06-01,"CEB",59.13
+2016-06-01,"CAESB",424
+2016-06-01,"Diarista",100
+2016-06-01,"Materiais de limpeza",20
+2016-06-01,"Reserva de caixa",338.19
+2016-06-01,"Manutenção corretiva",480
+2016-07-01,"CEB",58.17
+2016-07-01,"CAESB",441.6
+2016-07-01,"Diarista",100
+2016-07-01,"Materiais de limpeza",20
+2016-07-01,"Reserva de caixa",349.84
+2016-08-01,"CEB",57.99
+2016-08-01,"CAESB",457.6
+2016-08-01,"Diarista",100
+2016-08-01,"Materiais de limpeza",20
+2016-08-01,"Reserva de caixa",360.91
+2016-09-01,"CEB",56.14
+2016-09-01,"CAESB",457.6
+2016-09-01,"Diarista",100
+2016-09-01,"Materiais de limpeza",20
+2016-09-01,"Reserva de caixa",359.62
+2016-10-01,"CEB",58.06
+2016-10-01,"CAESB",466.75
+2016-10-01,"Diarista",100
+2016-10-01,"Materiais de limpeza",20
+2016-10-01,"Reserva de caixa",367.37
+2016-11-01,"CEB",61.32
+2016-11-01,"CAESB",457.6
+2016-11-01,"Diarista",100
+2016-11-01,"Materiais de limpeza",20
+2016-11-01,"Reserva de caixa",363.24
+2016-11-01,"Manutenção preventiva",600
+2016-12-01,"CEB",61.29
+2016-12-01,"CAESB",457.6
+2016-12-01,"Diarista",100
+2016-12-01,"Materiais de limpeza",20
+2016-12-01,"Reserva de caixa",363.22
+2016-12-01,"Manutenção corretiva",700
+2017-01-01,"CEB",60.66
+2017-01-01,"CAESB",457.6
+2017-01-01,"Diarista",100
+2017-01-01,"Materiais de limpeza",20
+2017-01-01,"Reserva de caixa",362.78
+2017-01-01,"Compra de materiais",310
+2017-02-01,"CEB",62.14
+2017-02-01,"CAESB",457.6
+2017-02-01,"Diarista",100
+2017-02-01,"Materiais de limpeza",20
+2017-02-01,"Reserva de caixa",363.818
+2017-03-01,"CEB",62.74
+2017-03-01,"CAESB",457.6
+2017-03-01,"Diarista",100
+2017-03-01,"Materiais de limpeza",20
+2017-03-01,"Reserva de caixa",364.24
+2017-04-01,"CEB",63.54
+2017-04-01,"CAESB",467.2
+2017-04-01,"Diarista",100
+2017-04-01,"Materiais de limpeza",20
+2017-04-01,"Reserva de caixa",371.52
+2017-04-01,"Manutenção corretiva",4658
+2017-05-01,"CEB",62.98
+2017-05-01,"CAESB",466.9
+2017-05-01,"Diarista",100
+2017-05-01,"Materiais de limpeza",20
+2017-05-01,"Reserva de caixa",370.92
+2017-05-01,"Compra de materiais",383.8
+2017-06-01,"CEB",63.66
+2017-06-01,"CAESB",465.6
+2017-06-01,"Diarista",100
+2017-06-01,"Materiais de limpeza",20
+2017-06-01,"Reserva de caixa",370.48
+2017-06-01,"Manutenção corretiva",400
+2017-06-01,"Serviço de dedetização",280
+2017-06-01,"Compra de materiais",22
+2017-07-01,"CEB",61.44
+2017-07-01,"CAESB",472
+2017-07-01,"Diarista",100
+2017-07-01,"Materiais de limpeza",20
+2017-07-01,"Reserva de caixa",373.41
+2017-07-01,"Manutenção corretiva",160
+2017-08-01,"CEB",63.92
+2017-08-01,"CAESB",472
+2017-08-01,"Diarista",100
+2017-08-01,"Materiais de limpeza",20
+2017-08-01,"Reserva de caixa",375.14
+2017-08-01,"Manutenção preventiva",300
+2017-09-01,"CEB",64.14
+2017-09-01,"CAESB",409.65
+2017-09-01,"Diarista",100
+2017-09-01,"Materiais de limpeza",20
+2017-09-01,"Reserva de caixa",331.65
+2017-10-01,"CEB",65.86
+2017-10-01,"CAESB",490.25
+2017-10-01,"Diarista",100
+2017-10-01,"Materiais de limpeza",20
+2017-10-01,"Reserva de caixa",389.28
+2017-11-01,"CEB",68.52
+2017-11-01,"CAESB",472.56
+2017-11-01,"Diarista",100
+2017-11-01,"Materiais de limpeza",20
+2017-11-01,"Reserva de caixa",378.76
+2017-12-01,"CEB",67.51
+2017-12-01,"CAESB",472
+2017-12-01,"Diarista",100
+2017-12-01,"Materiais de limpeza",20
+2017-12-01,"Reserva de caixa",377.66
+2018-01-01,"CEB",69.52
+2018-01-01,"CAESB",481.76
+2018-01-01,"Diarista",100
+2018-01-01,"Materiais de limpeza",20
+2018-01-01,"Reserva de caixa",385.9
+2018-02-01,"CEB",61.15
+2018-02-01,"CAESB",472
+2018-02-01,"Diarista",100
+2018-02-01,"Materiais de limpeza",20
+2018-02-01,"Reserva de caixa",373.21
+2018-03-01,"CEB",61.82
+2018-03-01,"CAESB",472
+2018-03-01,"Diarista",100
+2018-03-01,"Materiais de limpeza",20
+2018-03-01,"Reserva de caixa",373.67
+2018-03-01,"Manutenção corretiva",150
+2018-04-01,"CEB",60.11
+2018-04-01,"CAESB",481.91
+2018-04-01,"Diarista",100
+2018-04-01,"Materiais de limpeza",20
+2018-04-01,"Reserva de caixa",379.41
+2018-05-01,"CEB",61.62
+2018-05-01,"CAESB",450.76
+2018-05-01,"Diarista",100
+2018-05-01,"Materiais de limpeza",20
+2018-05-01,"Reserva de caixa",358.67
+2018-06-01,"CEB",65.05
+2018-06-01,"CAESB",472
+2018-06-01,"Diarista",100
+2018-06-01,"Materiais de limpeza",20
+2018-06-01,"Reserva de caixa",375.94
+2018-07-01,"CEB",72.59
+2018-07-01,"CAESB",486
+2018-07-01,"Diarista",100
+2018-07-01,"Materiais de limpeza",20
+2018-07-01,"Reserva de caixa",391.01
+2018-08-01,"CEB",70.62
+2018-08-01,"CAESB",472
+2018-08-01,"Diarista",100
+2018-08-01,"Materiais de limpeza",20
+2018-08-01,"Reserva de caixa",379.83
+2018-09-01,"CEB",71.38
+2018-09-01,"CAESB",486.45
+2018-09-01,"Diarista",100
+2018-09-01,"Materiais de limpeza",20
+2018-09-01,"Reserva de caixa",390.48
+2018-10-01,"CEB",71.2
+2018-10-01,"CAESB",481.88
+2018-10-01,"Diarista",100
+2018-10-01,"Materiais de limpeza",20
+2018-10-01,"Reserva de caixa",387.16
+2018-11-01,"CEB",71.94
+2018-11-01,"CAESB",481.88
+2018-11-01,"Diarista",100
+2018-11-01,"Materiais de limpeza",20
+2018-11-01,"Reserva de caixa",387.67
+2018-12-01,"CEB",70.53
+2018-12-01,"CAESB",472
+2018-12-01,"Diarista",100
+2018-12-01,"Materiais de limpeza",20
+2018-12-01,"Reserva de caixa",379.77
+2019-01-01,"CEB",69.77
+2019-01-01,"CAESB",481.88
+2019-01-01,"Diarista",100
+2019-01-01,"Materiais de limpeza",20
+2019-01-01,"Reserva de caixa",386.15
+2019-02-01,"CEB",73.87
+2019-02-01,"CAESB",558.02
+2019-02-01,"Diarista",100
+2019-02-01,"Materiais de limpeza",20
+2019-02-01,"Reserva de caixa",442.32
+2019-03-01,"CEB",74.35
+2019-03-01,"CAESB",538.08
+2019-03-01,"Diarista",100
+2019-03-01,"Materiais de limpeza",20
+2019-03-01,"Reserva de caixa",428.7
+2019-03-01,"Manutenção preventiva",400
+2019-04-01,"CEB",77
+2019-04-01,"CAESB",585.14
+2019-04-01,"Diarista",100
+2019-04-01,"Materiais de limpeza",20
+2019-04-01,"Reserva de caixa",463.5
+2019-05-01,"CEB",74.12
+2019-05-01,"CAESB",486.4
+2019-05-01,"Diarista",100
+2019-05-01,"Materiais de limpeza",20
+2019-05-01,"Reserva de caixa",392.36
+2019-05-01,"Manutenção corretiva",200
+2019-05-01,"Serviço de digitalização de projetos microfilmados",1290
+2019-06-01,"CEB",73.76
+2019-06-01,"CAESB",496
+2019-06-01,"Diarista",100
+2019-06-01,"Materiais de limpeza",20
+2019-06-01,"Reserva de caixa",398.83

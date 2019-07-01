@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559752934373.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "259727192",
+    "id" : "8C8EE09F",
+    "lastKnownWriteTime" : 1561943937,
+    "last_content_update" : 1561948869529,
+    "path" : "~/Condomínio/Condominio/Condominio_mes.Rmd",
+    "project_path" : "Condominio_mes.Rmd",
+    "properties" : {
+        "cursorPosition" : "59,28",
+        "last_setup_crc32" : "73B2BBAA91e26889",
+        "scrollLine" : "50",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

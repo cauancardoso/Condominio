@@ -1,0 +1,9 @@
+{
+    "path" : "~/Condomínio/Condominio",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
