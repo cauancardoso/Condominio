@@ -785,14 +785,14 @@ cond_mes <- despesas %>%
                   "Diarista", 
                   "Materiais de limpeza", 
                   "Reserva de caixa"))) %>%
-  mutate(Total = round(CEB + CAESB + Diarista + 
+  mutate(TOTAL = round(CEB + CAESB + Diarista + 
                           `Materiais de limpeza` +
                           `Reserva de caixa`,2),
-         "Subtotal por apartamento" = round(Total/7,2),
-         "Manutenção predial" = round((CEB + CAESB + Diarista + 
+         "Subtotal por apartamento" = round(TOTAL/7,2),
+         "Manutenção predial (responsabilidade inquilinos)" = round((CEB + CAESB + Diarista + 
                                         `Materiais de limpeza`)/7, 
                                       2), 
-         "Fundo de reserva" = round(`Reserva de caixa`/7,2)) %>%
+         "Caixa (responsabilidade proprietários)" = round(`Reserva de caixa`/7,2)) %>%
   gather(despesa, valor, 1:9)
 
 save(cond_mes, file = "cond_mes.RData")
