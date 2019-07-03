@@ -68,4 +68,4 @@ kable(cond_mes_ap, format = "latex", booktabs = T, caption = paste0("Valor a ser
 ```
 
 \vspace*{1\baselineskip}
-O pagamento deverá ser realizado até o dia **`r paste("10", format(Sys.Date(), "%m"), sep = "/")` – `r weekdays(seq.Date(Sys.Date(), length=2, by='9 days')[2])`**. Atrasos não serão aceitos e o valor a ser pago do condomínio (Tabela 2) será acrescido em 10% por dia de atraso.
+O pagamento deverá ser realizado até o dia **`r paste("10", format(Sys.Date(), "%m"), sep = "/")` – `r weekdays(as.Date(paste("10", format(Sys.Date(), "%m/%y"), sep = "/"), format = "%d/%m/%y"))`**. Atrasos não serão aceitos e o valor a ser pago do condomínio (Tabela 2) será acrescido em 10% por dia de atraso.
