@@ -756,6 +756,34 @@ library(lubridate)
 #despesas <- rbindlist(list(despesas,jun2019))
 #rm(jun2019) # mantendo apenas um data.table
 
+#jul2019 <- data.table(
+#  mes_referencia = as.Date(c(
+#    "2019-07-01",
+#    "2019-07-01",
+#    "2019-07-01",
+#    "2019-07-01",
+#    "2019-07-01"
+#  ), format = "%Y-%m-%d"
+#  ),
+#  despesa = c(
+#    "CEB", 
+#    "CAESB", 
+#    "Diarista",
+#    "Materiais de limpeza",
+#    "Reserva de caixa"
+#  ),
+#  valor = c(
+#    74.75,
+#    NA,
+#    100.00,
+#    20.00,
+#    NA
+#  )
+#)
+
+#despesas <- rbindlist(list(despesas,jul2019))
+#rm(jul2019) # mantendo apenas um data.table
+
 despesas <- despesas[order(mes_referencia)] # ordenando por data
 
 write.csv(despesas, file = "Despesas.csv", row.names = FALSE) # salva a
